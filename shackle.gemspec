@@ -8,6 +8,7 @@ Gem::Specification.new do |s|
   s.email       = 'tad.hosford@gmail.com'
   s.files       = ["lib/shackle.rb"]
   s.homepage    = 'http://github.com/rthbound/shackle'
+  s.licenses    = ["MIT"]
 
 
   s.add_runtime_dependency 'gemnasium-parser'
